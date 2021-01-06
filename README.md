@@ -1,2 +1,2 @@
 # UC-AI4T
-My repository during AI for Trading Nanodegree
+My repository during working through Udacity AI for Trading Nanodegree program.
